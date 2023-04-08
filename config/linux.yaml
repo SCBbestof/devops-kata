@@ -1,0 +1,11 @@
+linux:
+  ssh:
+    vm1:
+      ip: '192.168.64.6'
+      username: 'debian'
+      password: 'debian'
+    vm2:
+      ip: '192.168.64.7'
+      username: 'debian'
+      password: 'debian'
+    timeout: 5
